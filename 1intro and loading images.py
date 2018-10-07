@@ -16,3 +16,4 @@ img=cv2.imread('gsw1.jpg',cv2.IMREAD_GRAYSCALE)
 
 cv2.imwrite('gsw1.jpg',img)#to write images
 
+#openCV
